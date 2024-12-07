@@ -1,0 +1,19 @@
+.home-container{
+    text-align: center;
+    justify-content: center;
+
+}
+.home-container{
+    text-align: center;
+}
+
+.home{
+    padding: 20px 20px 20px ;
+
+}
+
+.dishes{
+    padding: 10px 10px 10px;
+    border-radius: 10px;
+    padding-left: 20px;
+}

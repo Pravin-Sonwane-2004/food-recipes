@@ -1,0 +1,35 @@
+
+.inner{
+    width:100%;
+    height: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px 0px 10px;
+    display: flex;
+
+}
+.inner-1 {
+    padding-left: 10px;
+    border: #0f0e0e;
+    border-radius: 10px;
+}
+.inner-1 img{
+    padding-left: 16px;
+    border: #808080;
+    border-radius: 10px;
+}
+.inner-2{
+    margin-top :10px; 
+    width: 55%;
+    height: auto;
+    padding-left: 15px;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: #0f0e0e;
+    background-color: aquamarine;
+}
